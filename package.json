@@ -10,7 +10,8 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "vue": "^3.2.47",
+    "vue-slider-component": "^4.1.0-beta.7"
   },
   "devDependencies": {
     "@types/node": "^18.14.2",
